@@ -1,0 +1,40 @@
+body{
+    justify-content: center;
+}
+
+#gdsc{
+    height: 30px;
+}
+
+h1{
+    justify-content: center;
+    text-align: center;
+    font-size: 400%;
+}
+
+p{
+    font-size: 150%;
+}
+
+#main-body{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+#bodytag{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #ccc;
+    border-radius: 10%;
+    margin: 0;
+}
+
+
+/* CSS to center the iframe */
+.iframe-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
