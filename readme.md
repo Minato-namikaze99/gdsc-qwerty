@@ -1,0 +1,1 @@
+This is the repo for the event called "QWERTY" coducted by GDSC Jorhat Engineering College.
